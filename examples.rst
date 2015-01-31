@@ -110,6 +110,11 @@ Try Wearable Notifications
 The Wearable Notifications sample app provides a simple way to try out different combinations of wearable UI notifications and patterns. The onscreen choices closely match the capabilities of the ``WearableNotifications`` class, so this is a good opportunity to learn about available displays. Later we will experiment with the underlying code.
 
   .. figure:: images/example-notify.png
-    :scale: 35 %
+    :scale: 35 %  
 
 The UI is basically a smorgasbord of wearable notification possibilities. The best way to use this app is simply to try out all the choices. You can select a basic notification type (preset), set its priority, and attach action icons.  You can also include a background image that provides context for the text notification. The Android Wear app is another way to view different notification examples. The  examples in the app are based on use cases, like traffic, weather, and sports, rather than underlying API options like Big Screen and Big Text.
+
+Follow this steps its really helps you to develop Android Wear Apps.
+============================
+
+http://www.technotalkative.com/android-wear-part-1-installation-setup/
